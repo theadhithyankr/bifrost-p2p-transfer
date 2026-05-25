@@ -1,4 +1,24 @@
 {
-  "name": "BifrostMobile",
-  "displayName": "BifrostMobile"
+  "expo": {
+    "name": "Bifrost",
+    "slug": "bifrost-mobile",
+    "version": "1.0.0",
+    "scheme": "bifrost",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "platforms": ["ios", "android"],
+    "ios": {
+      "bundleIdentifier": "com.adhithyan.bifrost",
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.adhithyan.bifrost",
+      "adaptiveIcon": {
+        "backgroundColor": "#080808"
+      }
+    },
+    "plugins": [
+      "expo-dev-client"
+    ]
+  }
 }
