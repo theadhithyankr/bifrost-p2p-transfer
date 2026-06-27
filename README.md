@@ -14,7 +14,7 @@ Peer-to-peer transfer project for moving files or data between devices.
 
 Bifrost P2P Transfer is a peer-to-peer transfer project in the TheAdhithyanKR/bifrost-p2p-transfer repository. React Native mobile app for encrypted peer-to-peer file transfer using WebRTC, Socket.IO signaling, and Expo.
 
-The README was written from the repository contents, including its manifest files, source tree, and available project metadata. The primary manifest is $(@{Path=package.json; Json=}.Path), and the commands below are taken from its scripts.
+The README was written from the repository contents, including its manifest files, source tree, and available project metadata. The primary manifest is `package.json`, and the commands below are taken from its scripts.
 
 ## Key Features
 
